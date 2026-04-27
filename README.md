@@ -16,6 +16,10 @@ This project demonstrates a basic ERC-20 style token smart contract built using 
 * Solidity
 * Remix IDE
 
+### 🎥 Video Explanation:
+
+https://drive.google.com/file/d/1GkTJm17xDFIemiZ58YWTqdkR7JhfD8rc/view?usp=drive_link
+
 ### 📌 Author:
 
 Shreya Joshi
